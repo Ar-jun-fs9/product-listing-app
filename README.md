@@ -13,9 +13,9 @@
 A modern, responsive e-commerce application built with React and Vite. Features product listing with search, category filtering, sorting, infinite scrolling, shopping cart functionality, and dark/light theme toggle.
 
 ![HomePage](assets/Homepage.png)
-![Products](assets/Products.png)
+![Products](assets/products.png)
 ![productsdarkmode](assets/productsdarkmode.png)
-![Cart](assets/Cartlist.png)
+![Cart](assets/cartlist.png)
 
 ## 🌐 Demo video
 
