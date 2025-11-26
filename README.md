@@ -95,8 +95,7 @@ npm --version
 
 ```
 ShopStream/
-├── 📁 assets/                          # Top-level assets folder
-│   ├── 🎥 demo-video.mp4               # Demo video for GitHub showcase
+├── 📁 assets/                          
 │   ├── 🖼️ homepage.png                 # Homepage screenshot
 │   ├── 🖼️ products.png                 # Products page screenshot
 │   ├── 🖼️ productsdarkmode.png         # Products page dark mode screenshot
